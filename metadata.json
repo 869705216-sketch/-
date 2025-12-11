@@ -1,0 +1,7 @@
+{
+  "name": "Sakura's Magic Circle",
+  "description": "A 3D interactive magic circle experience powered by Gemini Vision. Use hand gestures to control the chaos and formation of the spell.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
